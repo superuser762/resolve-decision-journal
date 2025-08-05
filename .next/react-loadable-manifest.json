@@ -1,0 +1,8 @@
+{
+  "../node_modules/@capacitor/local-notifications/dist/esm/index.js -> ./web": {
+    "id": 8450,
+    "files": [
+      "static/chunks/450.244d26bccd9d806f.js"
+    ]
+  }
+}
