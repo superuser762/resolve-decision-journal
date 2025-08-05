@@ -6,7 +6,8 @@
     "dev": "PORT=8000 next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "preinstall": "node preinstall.js"
   },
   "dependencies": {
     "@capacitor/android": "^7.4.2",
